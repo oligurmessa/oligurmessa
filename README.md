@@ -21,4 +21,4 @@ CS and math undergrad at the University of St. Thomas (B.S. Computer Science, B.
 
 Python · PyTorch · TensorFlow/Keras · scikit-learn · NumPy / pandas · OpenCV · SQL · dbt · DuckDB · Dagster · Docker · GCP · Java · C++ · TypeScript
 
-Looking for ML research and data roles starting 2027. Email is on the profile, or [LinkedIn](https://linkedin.com/in/oligurmessa).
+Looking for data, AI, ML roles starting 2027. Email is on the profile, or [LinkedIn](https://linkedin.com/in/oligurmessa).
