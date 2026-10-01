@@ -1,4 +1,4 @@
-### hi, I'm Oli
+### Hi, I'm Oli
 
 CS and math undergrad at the University of St. Thomas (B.S. Computer Science, B.A. Mathematics, graduating Dec 2026). I do applied machine learning research and build data systems that keep working after I stop looking at them.
 
