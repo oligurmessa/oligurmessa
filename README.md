@@ -6,7 +6,7 @@ CS and math undergrad at the University of St. Thomas (B.S. Computer Science, B.
 
 - **Diffusion model probing** (StabilityAI, 2025–present, in progress) — how much image quality do you lose when you cut inference steps? Evaluation harness over 1,600 prompts × 27 step configurations with fixed seeds, scored with PickScore. Early result: 5–10% less compute at PickScore 0.90–0.95.
 - **AI audio for user-generated game content** (UST Computer Science, 2024) — text-to-audio and image-to-audio pipelines so player-built levels get their own sound, using MusicGen and AudioGen at ~4 s per clip. Co-author on [arXiv:2404.17018](https://arxiv.org/abs/2404.17018).
-- **GeezNet** (UST Undergraduate Research Opportunities Program, 2023) — CNN, ResNet50 and InceptionV3 baselines for handwritten Ge'ez numerals on a 10,000-image dataset, with augmentation and regularization ablations and error analysis of confusable digit pairs. 97.8% accuracy. First author, published at IEEE AIBThings 2025: [doi:10.1109/AIBThings66987.2025.11296233](https://doi.org/10.1109/AIBThings66987.2025.11296233).
+- **GeezNet** (UST Undergraduate Research Opportunities Program, 2023) — CNN, ResNet50 and InceptionV3 baselines for handwritten Ge'ez numerals on a 10,000-image dataset, with augmentation and regularization ablations and error analysis of confusable digit pairs. 97.8% accuracy. First author, published at IEEE AIBThings 2025: [PDF](https://oligurmessa.github.io/assets/papers/geeznet-aibthings-2025.pdf) · [doi:10.1109/AIBThings66987.2025.11296233](https://doi.org/10.1109/AIBThings66987.2025.11296233).
 
 **Projects**
 
